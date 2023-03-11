@@ -16,6 +16,10 @@ h2 {
     margin: 20px auto;
 }
 
+.container:hover {
+   cursor: pointer;
+}
+
 .accord-info {  
     display: none; 
     box-sizing: border-box;
@@ -32,7 +36,6 @@ h2 {
 	font-size: 18px;
     color: #fff;
 	font-weight: 300;
-    cursor: pointer;
 }
 
 .check-box {
@@ -40,4 +43,8 @@ h2 {
     height: 0;
     -webkit-appearance: none;
     appearance: none;
+}
+
+.check-box:checked + .accord-info {
+    display: block;
 }
