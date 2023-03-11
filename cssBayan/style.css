@@ -20,6 +20,7 @@ h2 {
 }
 
 .accord-info {
+    min-height: 380px;
     display: none;
     box-sizing: border-box;
     background-color: #d7dee2;
@@ -29,8 +30,8 @@ h2 {
 
   .accord-info img {
     max-width: 100%;
-    height: auto;
-    margin: 0 auto;  
+    min-height: 90%;
+    margin: 2% auto;  
   }
 
 .container label {
@@ -62,7 +63,7 @@ h2 {
 }
 
 .check-box:checked+.accord-info>img:hover {
-    width: 50%;
+    width: 47%;
 }
 
 .accordion-icon {
@@ -78,4 +79,5 @@ h2 {
     border-width: 10px 10px 0 10px;
     border-color: #fff transparent transparent transparent;
 }
+
 
