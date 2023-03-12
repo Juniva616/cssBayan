@@ -1,0 +1,65 @@
+[33mcommit 3be2239ff911d6c3150afb026388c945998c4fdd[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m)[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sun Mar 12 14:17:28 2023 +0000
+
+    fix:  clean the code after validation ()
+
+[33mcommit 6c93c36d091b421ed340b5a0277a1dc79a0c1280[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sun Mar 12 01:21:40 2023 +0000
+
+    fix: fix footer at the bottom of the page (Sun, Mar 12, 2023 01:21:38 AM)
+
+[33mcommit aad0cfe54bf0a55fbbb57c5841eee5498d6aa9b6[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sun Mar 12 00:09:50 2023 +0000
+
+    feat: add header and footer  (Sun, Mar 12, 2023 00:09:49 AM)
+
+[33mcommit 8f8a160d0ac5c69a1c5d8c78abef532537518d49[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sat Mar 11 23:27:13 2023 +0000
+
+    fix: replace last img  (Sat, Mar 11, 2023 11:27:12 PM)
+
+[33mcommit 2ffb7524cfc1bd2939ed630fa6c57e491bcfb6a0[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sat Mar 11 22:19:21 2023 +0000
+
+    feat: add zoom-out when hover on img  (Sat, Mar 11, 2023 10:19:19 PM)
+
+[33mcommit 777077751c2e2d198e649437af7c8f24de95cf5f[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sat Mar 11 03:00:26 2023 +0000
+
+    fix: correct the text and a meme (Sat, Mar 11, 2023 03:00:15 AM)
+
+[33mcommit ba933aa8e3dd8cff72b89576bd0e4cbf13e4738f[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sat Mar 11 02:07:13 2023 +0000
+
+    feat:  add functionality to accordion  (Sat, Mar 11, 2023 02:07:19 AM)
+
+[33mcommit e624b37e95397bf70f723525454bc088f0b20a5a[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sat Mar 11 01:38:09 2023 +0000
+
+    feat:  add style to make checkbox invisible (Sat, Mar 11, 2023 01:38:10 AM)
+
+[33mcommit c736f1e62808220b4455c2b130cbbc832387951e[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Sat Mar 11 01:20:01 2023 +0000
+
+    feat:  add content to index.html and basic style (Sat, Mar 11, 2023 01:19:32 PM)
+
+[33mcommit 7fcc645a848a640f9b2fe9389882c2aa66dad814[m
+Author: Juniva616 <juniva616@gmail.com>
+Date:   Fri Mar 10 22:38:18 2023 +0000
+
+    init: start cssBayan-task (Fri, Mar 10, 2023 10:37:54 PM)
+
+[33mcommit 0c308a286931a599fbcc7436ced8c00720d2a2a1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Yuliia <105507189+Juniva616@users.noreply.github.com>
+Date:   Fri Mar 10 22:07:40 2023 +0000
+
+    Initial commit
