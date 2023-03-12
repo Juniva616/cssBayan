@@ -63,6 +63,7 @@ h2 {
     font-size: 18px;
     color: #fff;
     font-weight: 300;
+    border-bottom: 1px solid #d7dee2;
 }
 
 .check-box {
