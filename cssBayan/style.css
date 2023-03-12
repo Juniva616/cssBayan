@@ -6,8 +6,12 @@ body {
 h1,
 h2 {
     text-align: center;
-    color: rgb(44, 4, 95);
     font-weight: 800;
+}
+
+h2 {
+    font-family: Geneva, Verdana, sans-serif, sans-serif;
+    color: rgb(141, 30, 67);
 }
 
 .container {
@@ -20,12 +24,13 @@ h2 {
 }
 
 .accord-info {
-    min-height: 380px;
+    min-height: 400px;
     display: none;
     box-sizing: border-box;
     background-color: #d7dee2;
-    font-size: 16px;
+    font-size: 18px;
     text-align: center; 
+    font-family: Verdana, sans-serif;
 }
 
   .accord-info img {
@@ -58,12 +63,12 @@ h2 {
 }
 
 .check-box:checked+.accord-info>img {
-    width: 45%;
+    width: 43%;
     transition: width 0.5s ease-in-out;
 }
 
 .check-box:checked+.accord-info>img:hover {
-    width: 47%;
+    width: 45%;
 }
 
 .accordion-icon {
@@ -81,3 +86,12 @@ h2 {
 }
 
 
+.footer,
+.heading {
+    width: 100%;
+    height: 10vh;
+    padding-top: 0.1%;
+    background-color: #3e627a;
+    color: #fff;
+    text-align: center;
+}
