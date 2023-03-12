@@ -13,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
 main {
     padding: 5px;
     flex: 1 1 auto;
@@ -43,16 +44,14 @@ h2 {
     display: none;
     box-sizing: border-box;
     background-color: #d7dee2;
-    font-size: 18px;
-    text-align: center; 
-  
+    text-align: center;
 }
 
-  .accord-info img {
+.accord-info img {
     max-width: 100%;
     min-height: 90%;
-    margin: 2% auto;  
-  }
+    margin: 2% auto;
+}
 
 .container label {
     position: relative;
@@ -73,7 +72,7 @@ h2 {
     appearance: none;
     display: none;
 }
- 
+
 .check-box:checked+.accord-info {
     display: block;
 }
@@ -113,4 +112,40 @@ h2 {
     background-color: #3e627a;
     color: #fff;
     text-align: center;
+}
+
+/* mediaqueries for 320x568, tablet 820x1180, desktop 1920×1080.  */
+
+@media screen and (max-width: 790px) {
+
+}
+
+@media screen and (max-width:480px) {
+
+    h1,
+    h2 {
+        font-size: medium;
+    }
+    .body {
+        font-size: small;
+    }
+    .accord-info {
+        min-height: 100px;
+    }
+
+    .container {
+        max-width: 90%;
+        margin: 10px auto;
+    }
+
+    .footer,
+    .heading {
+        height: 5vh;
+        padding-top: 0.05;
+        font-size: smaller;
+    }
+    p {
+        margin: 0;
+        padding: 0;
+    }
 }
