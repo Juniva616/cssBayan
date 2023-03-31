@@ -1,5 +1,8 @@
  A study project at RSSchool.
- The taske is to create an accordion with only HTML and CSS, without any frameworks and JS.
+ The task is to create an accordion with only HTML and CSS, without any frameworks and JS.
+ 
+ 
+ Deployed version: <a href="https://juniva616.github.io/cssBayan/cssBayan/index.html"> Bayan </a>
 
  All images are taken from Freepik.com:
 
